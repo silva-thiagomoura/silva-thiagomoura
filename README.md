@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-thiagomoura&langs_count=12&layout=compact&theme=dark" align="right">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-thiagomoura&langs_count=12&layout=compact&theme=dark" align="right"> -->
 
  ## 👋 Hello, I'm Thiago Moura!
  
