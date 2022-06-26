@@ -12,13 +12,12 @@
 
 
 ### > Technologies and Tools I use for work
-<code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title = "AWS"/></code>
+<code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title = "AWS"/></code>
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title = "vscode"/></code> 
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title = "git"/></code>
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title = "kubernetes"/></code> 
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title = "docker"/></code>
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "Python"/></code>
-<code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" title = "SLACK"/></code>
 <code><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title = "Terraform"/></code>
 
 ![Snake animation](https://github.com/silva-thiagomoura/silva-thiagomoura/blob/output/github-contribution-grid-snake.svg) 
